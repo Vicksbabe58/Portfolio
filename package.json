@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-with-nodejs",
+  "version": "1.0.0",
+  "description": "This is a Porfolio Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vicksbabe58/Portfolio.git"
+  },
+  "author": "Victory Ilikah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vicksbabe58/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Vicksbabe58/Portfolio#readme"
+}
